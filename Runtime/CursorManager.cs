@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using SingletonSystem.Runtime;
+using NoReleaseDate.SingletonSystem.Runtime;
 using UnityEngine;
 
 namespace NoReleaseDate.CursorSystem.Runtime
